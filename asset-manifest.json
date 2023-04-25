@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/SunCloudAnimation/static/js/main.71d1b862.js",
+    "main.js": "/SunCloudAnimation/static/js/main.6c9d1398.js",
     "static/js/787.907d20ab.chunk.js": "/SunCloudAnimation/static/js/787.907d20ab.chunk.js",
     "index.html": "/SunCloudAnimation/index.html",
-    "main.71d1b862.js.map": "/SunCloudAnimation/static/js/main.71d1b862.js.map",
+    "main.6c9d1398.js.map": "/SunCloudAnimation/static/js/main.6c9d1398.js.map",
     "787.907d20ab.chunk.js.map": "/SunCloudAnimation/static/js/787.907d20ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.71d1b862.js"
+    "static/js/main.6c9d1398.js"
   ]
 }

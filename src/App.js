@@ -27,7 +27,7 @@ const App = () => {
       <Box
         sx={{
           ...buttonContainer,
-          backgroundColor: click ? "#2e83bf" : "#1d1f31",
+          backgroundColor: click ? "#2e83bf" : "#25213c",
           transition: "1s",
         }}
       >

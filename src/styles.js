@@ -4,7 +4,7 @@ export const container = {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  backgroundColor: "lightGray",
+  // backgroundColor: "lightGray",
 };
 
 export const buttonContainer = {

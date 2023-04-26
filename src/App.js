@@ -22,7 +22,7 @@ const App = () => {
   const [click, setClick] = React.useState(true);
 
   return (
-    <Box sx={container}>
+    <Box sx={{ ...container, backgroundColor: click ? "#2e83bf" : "#25213c" }}>
       <CssBaseline />
       <Box
         sx={{
